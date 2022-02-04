@@ -14,8 +14,8 @@ Field	and Description :
 
 
 ML step :
-1.Load the data
-2.Data visualization and pre-processing (EDA).
+## 1.Load the data
+## .Data visualization and pre-processing (EDA).
   2.1. Pre-processing: Feature selection/extraction
-3. Feature engineering.
-4. Model building and build the classification matrix .
+## 3. Feature engineering.
+## 4. Model building and build the classification matrix .
