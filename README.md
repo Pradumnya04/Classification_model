@@ -11,3 +11,11 @@ Field	and Description :
 6.Age	(Age of applicant)
 7.Education	(Education of applicant)
 8.Gender	(The gender of applicant)
+
+
+ML step :
+1.Load the data
+2.Data visualization and pre-processing (EDA).
+  2.1. Pre-processing: Feature selection/extraction
+3. Feature engineering.
+4. Model building and build the classification matrix .
